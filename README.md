@@ -1,30 +1,5 @@
 # fullstack-e-commerce
 
-Start MongoDB
-
-```
-mongod
-```
-
-Install Packages
-
-```
-cd server
-npm i
-```
-
-Seed Database
-
-```
-npm run seedDB
-```
-
-Start server
-
-```
-npm start
-```
-
 ## Homepage
 
 ![Homepage](https://i.imgur.com/idFaU9b.jpeg "Homepage")
